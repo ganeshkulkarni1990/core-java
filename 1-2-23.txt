@@ -1,0 +1,213 @@
+
+
+
+Laptop Ubuntu
+
+Windows No 
+
+
+TODO:
+
+1. Install ubuntu
+2. Intall gcc/g++ Clang/clag++
+3. Install java
+4. Intall eclipse/intelliJ
+
+
+
+
+
+C lang
+
+Why programming language
+- Need to implement general ideas.
+
+
+Langauge
+
+Compiler
+OS/Executor
+Editor
+
+
+
+C Language
+Procedural Language
+Platform dependent language
+
+Compilation —> Preprocessing —> Code generate —> executables 
+
+MacBook Pro 16 —> exe —> 
+
+
+Exe—> binary
+
+
+
+Run —> 
+
+
+64bit
+
+Processor 64 bit
+
+000001010101010110101011010101101010101
+
+
+64 bit
+
+Opcode operand operand
+
+
+Opcode
+20                22                 22 
+
+
+2^4
+Opcode —> operation
+
+0000 —>.add
+0001 —> subsract
+0010—> copy
+0011—>doSakshi
+0100 -> doAction
+
+
+1111 —> DoAction15 
+
+16
+
+
+30 17 17
+
+256
+
+0 —> 0
+1—>1
+9–9
+10—>a
+11->b
+
+
+
+2^22
+
+2^20 1MB
+2^30 1GB
+2^31 2GB
+2^32 4GB
+2^40 1TB
+2^50 1PB
+2^60 1EB
+
+
+2^62 —>  
+
+
+
+
+C++ 
+Object Oriented Language
+Platform dependent language
+
+C/C++ —> customer build —> release —> 
+
+C/C++ —> exe —> debugging difficult —> software crash—> 
+
+Exe —> crash —> exit soft failure
+Exe —> crash —> OS crash —> hard failure —> customer —> os —>
+
+Security Issue 
+Library support is very less
+
+
+
+
+
+Program on OS —> unmanned software —> program —> crash —> os crash hold 
+
+
+C/c++ code —> 
+
+10 OS —>
+
+
+Question what is standard input output devices
+
+Task / Software / web application /standalone application —> 
+
+
+100000000 LOC —> A language
+100 LOC —> B language
+
+
+Library support C/C++ Library 
+
+
+C/C++ not replaceable in writing drivers
+
+Driver is software which communicated with device 
+System programming 
+
+
+
+Application Design high Level
+Question operating booting process
+Boot —> startup of kernel
+
+
+General 
+
+100 software —> 9 general purpose
+1 system -->
+
+
+Java 
+Object Oriented Language
+Library Support Added
+Managed Software 
+Java Platform independent
+
+
+Java —> Principal —> WORA
+Write once Run again 
+
+
+
+
+Notes
+
+C/C++ 
+Low level language —> mid level 
+Platform dependent
+Library support 
+System programming
+Driver design
+
+Programming paradigm
+Procedural laugage
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
