@@ -1,0 +1,187 @@
+
+
+ 
+Object Oriented Programming --> Oject realtime time entity
+Java --> Runtime Entity 
+
+Object --> 
+
+class --> blueprint -- data and memmber functions together 
+--> Encapsulation
+
+Object : in java Object is the super class of all the objects
+Class
+Encapsulation
+Abstraction --> Interface -->  what of the system and not how
+	data abstraction --> private/public/protected/default --> access modifiers 
+Polymorphism --> one nane many roles, 
+	Method Overloading : - method signature --> method_name(argument list);
+		sum(int a, int b);
+		sum(float a, float b)
+		sum(double a, double c);
+		sum(int a, int b, int c);
+
+	Method Overriding :- 
+	Inheritance --> in clild class when you declare/define same method 
+	toString()
+	hashCode()
+	equals()
+	clone()
+
+	static --> class level --> 
+	Objects are stored on heap
+	variables stored on stack
+
+
+
+
+VideoConverter
+TaxiService
+
+
+
+JVM : Resource Manager --> JAVA VIRTUAL MACHINE
+allocating cpu, memory , io ...
+
+
+
+
+
+class A {
+	int a,
+	int b;
+	public A(){
+
+	}
+}
+
+///when user adds any type of constructor, jvm will not add any constructor
+//if none of the constructros are defined , then jvm adds defualt constrctor
+
+Constructor role, constrcting the object 
+default constructor initializes with defaults values
+
+int 0
+flaot 0.0f
+double 0.0d
+boolean false
+String null
+Object null
+char "ascii value of 0"
+long 0
+short 0
+byte 0
+
+Arrays 
+String []
+
+java is 99.9999999999 % object oriented programming 
+0.01% why not --> java primitive datatype
+
+java has provided wrapper classes on primitive types
+
+class Integer {
+	int value;
+}
+
+Integer
+Float
+Double
+Character
+Byte
+Long
+Short
+Boolean
+
+
+Collections cannot work on primitive data, works on objects
+Collections: collection of java objects
+
+
+what is java bean,
+
+all the data members are private
+and this datamembers only can be modified using public getter and setter methods
+
+
+private int id;
+
+public int getId(){
+	return this.id;
+}
+
+public void setId(int id){
+	this.id = id;
+}
+
+
+bytecode
+
+Java is compliled+interpreted
+.class 
+.class -> interpreter
+
+java JIT 
+
+platform independence
+
+
+Java 
+
+
+JVM (JAVA runtime)
+JRE (JAVA runtime + libs (inbuit) rt.jar lang.jar)
+JDK (JAVA runtime + Compiler(javac / JIT) + java doc , debugging tools )
+
+
+Loops
+for
+while >=0
+do while >=1
+for-each
+
+
+loop break, continue
+break control goes to end of the block
+
+
+for(int i=0;i<5;i++){
+	break;
+}
+// after execution of break control comes here
+
+switch , primitive datatypes, enum, strings
+case break, default 
+
+
+inheritance
+protected --> accessible in subclasses and in same package
+final 
+
+final variable and method
+final variable one time can be assigned value
+method final : it can not be overriden --> subclass cannot define this method
+super --> to call immidiate parents constrctor or methods
+if in constructor it should be first line
+super.test(); --> it can be present anywhere
+
+types 
+simple inheritance
+multilevel
+multiple , interface , class no (diamond problem)
+hierarchical  
+
+
+
+
+How ro create exception 
+
+extends from Exception
+or implements throwable
+
+
+
+
+
+
+
