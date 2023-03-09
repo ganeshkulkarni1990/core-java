@@ -12,7 +12,7 @@ class AAAA {
 
     public long doLongCalc(int salt) throws NotAValidNumberException {
         if(salt == 0){
-            throw new NotAValidNumberException();
+            throw new NotAValidNumberException(salt, "Not a valid value");
         }
         return (i * 100) + (100 * (salt) << 4);
     }
